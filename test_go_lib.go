@@ -10,3 +10,8 @@ func main() {
 	fmt.Printf("call my lib\n")
 	lib.Hello()
 }
+
+func Call() {
+	fmt.Printf("call my lib\n")
+	lib.Hello()
+}
