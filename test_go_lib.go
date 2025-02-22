@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"test_go_lib/lib"
+
+	"github.com/kawasaki8901/test_go_lib/lib"
 )
 
 func main() {
